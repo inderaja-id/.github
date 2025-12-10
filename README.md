@@ -1,2 +1,3 @@
-# .github
-Resources and tools for remote sensing practitioners in Indonesia
+# Inderaja Indonesia
+
+**Inderaja** (from Bahasa Indonesia, _Penginderaan Jauh_), means _Remote Sensing_ 
